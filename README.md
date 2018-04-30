@@ -1,3 +1,6 @@
 # 2-Layer-Neural-Network
 
-![img](https://i.imgur.com/Pq8rtFO.png)
+.. image:: https://imgur.com/gallery/izc29z0
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %

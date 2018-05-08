@@ -1,4 +1,4 @@
-# 2-Layer-Neural-Network
+# A 2 Layer Neural Network
 <br>
 
 A simple neural network using only **numpy** , **time** and **Scipy**

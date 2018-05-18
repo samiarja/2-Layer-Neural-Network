@@ -4,6 +4,7 @@
 A simple neural network using only **numpy** , **time** and **Scipy**
 <br>
 
+
 ### The target from this is to learn:
 
 

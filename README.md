@@ -19,3 +19,4 @@ A simple neural network using only **numpy** , **time** and **Scipy**
 
 All the credit goes to [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) and his famous Youtube channel.
 
+

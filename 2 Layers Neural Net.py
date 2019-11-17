@@ -1,6 +1,6 @@
 import numpy as np
 import time
-
+import matplotlib.pyplot as plt
 from sklearn.tests.test_multioutput import n_samples
 
 #Variables

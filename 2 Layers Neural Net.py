@@ -63,7 +63,7 @@ X= np.random.binomial(1, 0.5, (n_samples, n_in))
 T=X^1
 
 #Training Timeeeeeeeeeeeee
-for epoch in range(100):
+for epoch in range(10):
     err= []
     upd= [0]*len(params)
 
@@ -81,6 +81,9 @@ for epoch in range(100):
                 err.append(loss)
                 print ('Epoch: %d, Loss: %0.8f, Time: %.4fs' % (
                     epoch, np.mean(err), time.clock()-t0))
+              
+                
+    
 
 #Prediction
 x= np.random.binomial(1, 0.5, n_in)
